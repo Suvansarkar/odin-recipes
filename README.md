@@ -2,6 +2,11 @@
 
 This is a simple HTML project made while following The Odin Project's "Odin Recipes" assignment.
 
+The Link to the challenge can be found here -
+https://www.theodinproject.com/lessons/foundations-recipes
+
+---
+
 ## Skills Demonstrated
 
 1. Basic HTML understanding
