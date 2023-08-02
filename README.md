@@ -1,6 +1,6 @@
-# odin-recipies
+# Odin-Recipes
 
-This is a simple HTML project made while following The Odin Project's "Odin Recipies" assignment.
+This is a simple HTML project made while following The Odin Project's "Odin Recipes" assignment.
 
 ## Skills Demonstrated
 
